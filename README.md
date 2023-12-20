@@ -1,2 +1,2 @@
-# evexbot.github.io
-evex bot
+# Evex Bot
+Evex Bot ai tool
